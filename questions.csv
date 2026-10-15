@@ -1,0 +1,9 @@
+question,option1,option2,option3,option4,answer
+"1. 在 p5.js 中，哪一個函式只會在程式開始時執行一次？","draw()","setup()","createCanvas()","mousePressed()",1
+"2. 哪一個指令可以用來設定畫布背景的顏色？","fill()","stroke()","background()","color()",2
+"3. 哪一個指令可以用來繪製一個圓形或橢圓形？","rect()","line()","point()","ellipse()",3
+"4. 若要填充形狀內部的顏色，應該使用哪一個指令？","fill()","stroke()","background()","noStroke()",0
+"5. 代表滑鼠當前 X 軸座標的系統內建變數為何？","mouseY","mouseX","pmouseX","moveX",1
+"6. 代表滑鼠當前 Y 軸座標的系統內建變數為何？","mouseX","mouseY","pmouseY","moveY",1
+"7. 哪一個指令可以用來改變繪製線條與邊框的顏色？","fill()","stroke()","background()","noStroke()",1
+"8. 哪一個指令可以用來取消繪製邊框？","noFill()","noStroke()","smooth()","strokeWeight()",1

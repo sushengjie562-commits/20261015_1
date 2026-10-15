@@ -1,0 +1,16 @@
+/* 全域網頁設定：英數字優先套用 Isometric，中文套用 Noto Sans HK */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* 防止出現全螢幕滾動條 */
+  font-family: 'Isometric', 'Noto Sans HK', sans-serif;
+}
+
+canvas {
+  display: block;
+}
+
+/* 確保 p5.js 產生的 HTML 按鈕也套用相同字型組合 */
+button {
+  font-family: 'Isometric', 'Noto Sans HK', sans-serif !important;
+}
